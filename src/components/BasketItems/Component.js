@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import { getProductName, getProductValue } from '../../config/products';
 import formatCurrency from '../../formatCurrency';
 import './Component.css';

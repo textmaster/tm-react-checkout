@@ -1,8 +1,8 @@
-// ACTION TYPES
-const ADD_PRODUCT = 'ADD_PRODUCT';
-
 // PRODUCT TYPES
 import { getProductValue } from '../config/products';
+
+// ACTION TYPES
+const ADD_PRODUCT = 'ADD_PRODUCT';
 
 // INITIAL STATE
 const initialState = {

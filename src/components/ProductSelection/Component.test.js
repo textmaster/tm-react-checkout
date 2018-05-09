@@ -16,7 +16,7 @@ describe('ProductSelectionComponent', function () {
       component = shallow(<ProductSelection addProduct={addProduct} />);
     });
     afterEach(function () {
-      addProduct.reset();
+      addProduct.resetHistory();
     });
 
     describe('product buttons', function () {
