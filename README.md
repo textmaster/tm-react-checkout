@@ -1,6 +1,6 @@
 <h1 align="center"><img width="300px" src="images/logo-v5.png" title="TextMaster: Professional multilingual translation and writing solution combining a network of certified translators and writers with proprietary technologies." alt="TextMaster: Professional multilingual translation and writing solution combining a network of certified translators and writers with proprietary technologies."></h1>
 
-# Welcome on TextMaster React Checkout exercise 👋
+# Welcome to TextMaster React Checkout exercise 👋
 
 This is a simple coding exercise used by TextMaster for technical recruitment purposes. There are no limit of time to perform this task nor any particular restriction, however considering the rather simple nature of the test we will expect a reasonable delivery time.
 
